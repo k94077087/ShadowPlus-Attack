@@ -4,8 +4,6 @@ This work implements the code for "Shadow+: Edge Shadow Adversarial Attacks on O
 
 <br>
 
-```
-
 ## Usage of shadow_attack.py
 
  - **Datasets and trained models**  
